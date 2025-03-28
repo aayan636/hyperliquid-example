@@ -1,0 +1,7 @@
+{
+    "secret_key": "<HyperLiquid Secret Key>",
+    "account_address": "",
+    "coin_market_cap_api_key": "<API Key from Coin Market Cap.com>",
+    "gemini_api_key": "<Gemini API Key>",
+    "model": "gemini-2.0-flash"
+}
